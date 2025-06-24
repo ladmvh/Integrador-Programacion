@@ -1,1 +1,5 @@
 # Integrador-Programacion
+TRABAJO REALIZADO DE MANERA INDIVIDUAL POR FALTA DE CONTACTO CON COMPAÑERO
+
+ALGORITMOS DE BÚSQUEDA Y ORDENAMIENTO
+Link de video: https://drive.google.com/file/d/17qOZVT83O8OZiNv2X2hO4ee85730dB6b/view?usp=sharing
